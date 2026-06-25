@@ -1,0 +1,2 @@
+THRESHOLD_AMOUNT = 100.0
+MODEL_NAME = "gemini-2.5-flash"
